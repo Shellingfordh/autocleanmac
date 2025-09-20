@@ -1,4 +1,3 @@
-````markdown
 # 🚀 macOS One-Click Cleanup Script | Clean Cache, Logs & Temporary Files
 
 ## English Version (SEO Optimized)
