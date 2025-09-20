@@ -113,8 +113,4 @@ chmod +x cleanup_browsers.sh cleanup_system.sh cleanup_wechat.sh
 
 macOS 清理, Mac 磁盘清理, 清理 Mac 缓存, 删除 Mac 垃圾, 微信重复文件清理, 清理系统缓存, Mac 优化脚本, Safari 缓存清理, Chrome 缓存清理, Edge 缓存清理, Firefox 缓存清理, Tor 浏览器清理, 微信缓存清理
 
-```
 
-
-你希望我加这个吗？
-```
