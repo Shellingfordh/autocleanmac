@@ -1,6 +1,6 @@
 # 🚀 macOS One-Click Cleanup Scripts | Free Disk Space, Clear Cache & WeChat Junk Files
 
-## English Version (SEO Optimized)
+## English Version
 
 ### Overview
 These **macOS cleanup scripts** help you **free up disk space**, **optimize Mac performance**, and **clean app junk files** efficiently. They remove **browser caches, system caches, temporary files, logs, duplicate WeChat/QQ photos**, and **app-specific temp files** (WPS, Office, Adobe) without affecting your **login sessions, bookmarks, or important data**. Perfect for **Safari, Chrome, Edge, Firefox, Tor Browser**, and **WeChat/QQ users** frustrated by duplicate files and photos saved in multiple paths.
