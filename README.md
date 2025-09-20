@@ -1,7 +1,3 @@
-明白了，你希望我帮你写一个 **针对 GitHub 的 README**，兼顾 **中英文双语、SEO 优化、自然语言搜索习惯**，让你的 “macOS 一键清理垃圾脚本” 更容易被发现和获得 star。我可以直接给你一个完整示例，英文在前、中文在后，每一部分都单独优化搜索关键词。
-
----
-
 ````markdown
 # 🚀 macOS One-Click Cleanup Script | Clean Cache, Logs & Temporary Files
 
