@@ -18,7 +18,8 @@ These **macOS cleanup scripts** help you **free up disk space**, **optimize Mac 
 1. `cleanup_browsers.sh` – clean browser caches (Safari, Chrome, Edge, Firefox, Tor)  
 2. `cleanup_system.sh` – clean system caches, logs, temp files, startup cache  
 3. `cleanup_wechat.sh` – remove WeChat duplicate files, thumbnails, and cache  
-4. `cleanup_apps.sh` – clean WPS/Office/WeChat/QQ  updates, caches, and Adobe temp files  
+4. `cleanup_apps.sh` – clean WPS/Office/WeChat/QQ  updates, caches, and Adobe temp files
+5. `optimize_mac.sh`- Startup Cache: Cleans user and system startup caches to resolve slow logins and boot-up lags. System Cache: Cleans caches in /Library/Caches and ~/Library/Caches to free up disk space. High-Usage Processes: Lists the top 10 processes using the most CPU and memory, making it easier for users to manually manage them.
 
 ### Usage
 1. Download the scripts:
@@ -80,6 +81,7 @@ macOS cleanup, free Mac space, clear cache Mac, delete Mac junk, WeChat duplicat
 2. `cleanup_system.sh` – 清理系统缓存、日志、临时文件、启动缓存
 3. `cleanup_wechat.sh` – 删除微信重复文件、缩略图和缓存
 4. `cleanup_apps.sh` – 清理 WPS/Office/微信/QQ 更新和缓存，Adobe 临时文件
+5. `optimize_mac.sh` - 启动项缓存：清理用户和系统启动项缓存，解决登录慢、开机卡顿问题。系统缓存：清理 /Library/Caches 和 ~/Library/Caches 下的缓存，释放磁盘空间。高占用进程：列出占用 CPU 和内存最高的前 10 个进程，方便用户手动处理。
 
 ### 使用方法
 
